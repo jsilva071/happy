@@ -1,5 +1,5 @@
-# Happy - NLW #3
-Projeto Happy construído durante a Next Level Week #03
+<h1 align="center">Happy - NLW #3</h1>
+<p align="center">Projeto Happy construído durante a <strong>Next Level Week #03</strong></p>
 
 ![Capa](https://paste.cyberland.fun/happy.png)
 
